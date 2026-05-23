@@ -50,3 +50,15 @@ streamlit run app.py
 
 To demonstrate an end-to-end ML pipeline:
 data preprocessing → model training → evaluation → deployment
+
+# Histogram
+![alt text](image.png)
+
+# Heatmap
+![alt text](image-1.png)
+
+# Scatterplot
+![alt text](image-2.png)
+
+# SHAP
+![alt text](image-3.png)
