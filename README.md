@@ -1,8 +1,12 @@
 Phase 1 — Setup & Data Loading — get your environment ready, load California Housing data, understand all 8 features.
+
 Phase 2 — EDA — visualize the target distribution, correlation heatmap, geographic price map, and clean outliers. This phase alone teaches more intuition than any textbook.
+
 Phase 3 — Feature Engineering — create derived features (rooms per house, bedroom ratio, distance to SF/LA), do the train/val/test split, and scale features. The split-before-scale order matters — data leakage is the #1 beginner mistake.
 Phase 4 — Model Training — build 4 models in order: Linear Regression → Ridge/Lasso → Random Forest → XGBoost with k-fold CV and hyperparameter tuning. You'll see R² jump from ~0.62 (linear) to ~0.84 (XGBoost).
+
 Phase 5 — Evaluation — test set evaluation, residual plots, and SHAP values for interpretability. The SHAP section is what separates a student project from a professional one.
+
 Phase 6 — Deployment — save the model, build a Streamlit UI with sliders, deploy to Streamlit Cloud for a public URL
 
 
